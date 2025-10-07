@@ -289,3 +289,5 @@ ReportGenerationStatus { status, report?, message?, error? }
 - Download de múltiplos formatos (DOCX, XLSX)
 - Compartilhamento de relatórios
 
+## Exemplo Prático
+[![Assista ao vídeo](https://img.youtube.com/vi/-qcRaY0wuE8/maxresdefault.jpg)](https://www.youtube.com/watch?v=-qcRaY0wuE8)
